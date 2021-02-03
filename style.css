@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-size: 15px;
+    background: rgb(32,145,7);
+    background: linear-gradient(90deg, rgba(32,145,7,0.8659664549413515) 18%,
+                rgba(27,123,128,0.7539216370141807) 54%,
+                rgba(229,0,255,0.6852941005503764) 100%);
+}
+
+#cont {
+    border: 2px solid red;
+    background-color: indianred;
+    width: 30%;
+    margin: 30px auto auto;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#pass {
+    margin-top: -5px;
+    padding-top: 6px;
+    text-align: center;
+}
+
+#value {
+    margin-top: 5px;
+}
+
+#cont1 {
+    width: 60%;
+    height: 50vh;
+    background-image: url("yoda.jpg");
+    background-size: cover;
+    margin: auto;
+}
+
+#cont2 {
+    width: 60%;
+    height: 50vh;
+    background-image: url("vador.jpg");
+    background-size: cover;
+    margin: auto;
+}
+h3 {
+    color: gold;
+    font-size: 30px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
