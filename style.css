@@ -39,7 +39,7 @@ body {
 
 #cont1 {
     width: 60%;
-    height: 50vh;
+    height: 80vh;
     background-image: url("yoda.jpg");
     background-size: cover;
     margin: auto;
@@ -47,7 +47,7 @@ body {
 
 #cont2 {
     width: 60%;
-    height: 50vh;
+    height: 80vh;
     background-image: url("vador.jpg");
     background-size: cover;
     margin: auto;
